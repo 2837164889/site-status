@@ -24,7 +24,7 @@ const Footer = () => {
         <p>
           <CustomLink
             text={Package.alia}
-            to="https://github.com/imsyy/site-status"
+            to="https://github.com/2837164889/site-status"
           />
           &nbsp;Version&nbsp;{Package.version}
         </p>
